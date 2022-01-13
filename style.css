@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+
+}
+
+p,h1{
+  font-weight: bold;
+}
+
+h1 {
+  color: solid black;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+.navbar-brand {
+  font-size: 25px;
+
+}
+nav{
+  background-color: white;
+}
+
+.content-heading {
+  font-size: 25px;
+}
+
+#content {
+  background-color: grey;;
+  border-radius: 10px;
+  padding: 15px 15px 15px 15px;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
